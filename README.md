@@ -28,7 +28,9 @@ In this project, it is a project where a company takes orders for customers' pro
 
 |<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/15.PNG" width="300" height = "200px" >|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/16.jpg" width="300" height = "200px" >|
 
-
+**Name:** Nazlı  <br>
+**Surname:** GENÇEL <br>
+**Email:** nazligencel82@gmail.com  
 
 
 
