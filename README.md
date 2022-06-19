@@ -14,4 +14,21 @@ In this project, it is a project where a company takes orders for customers' pro
 
 |<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/1.PNG" width="300" height = "200px" >|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/2.PNG" width="300" height = "200px" >|
 
+|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/3.PNG" width="300" height = "200px" >|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/4.PNG" width="300" height = "200px" >|
+
+|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/5.PNG" width="300" height = "200px" >|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/6.PNG" width="300" height = "200px" >|
+
+|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/7.PNG" width="300" height = "200px" >|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/8.PNG" width="300" height = "200px" >|
+
+|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/9.PNG" width="300" height = "200px" >|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/10.PNG" width="300" height = "200px" >|
+
+|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/11.PNG" width="300" height = "200px" >|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/12.PNG" width="300" height = "200px" >|
+
+|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/13.PNG" width="300" height = "200px" >|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/14.PNG" width="300" height = "200px" >|
+
+|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/15.PNG" width="300" height = "200px" >|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/16.jpg" width="300" height = "200px" >|
+
+
+
+
 
