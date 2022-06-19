@@ -12,6 +12,6 @@ In this project, it is a project where a company takes orders for customers' pro
 
 ## Project Overview 
 
-|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/1.PNG" width="300" height = "300">|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/2.PNG" width="300" height = "300">|
+|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/1.PNG" width="300" height = "200px" >|<img src="https://github.com/nazligencel/HeroCompany/blob/main/images/2.PNG" width="300" height = "200px" >|
 
 
